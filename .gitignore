@@ -1,0 +1,15 @@
+Debug
+
+scan
+
+opencvTest.sdf
+
+*.jpg
+
+*.png
+
+*.tif
+
+*.txt
+
+wkernelbase.pdb
