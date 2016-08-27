@@ -78,7 +78,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Base.cpp" />
+    <ClCompile Include="ClipItem.cpp" />
+    <ClCompile Include="CuttingEdge.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="RemoveLineFixWord.cpp" />
+    <ClCompile Include="RotateImage.cpp" />
+    <ClCompile Include="Threshold.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Base.h" />
+    <ClInclude Include="ClipItem.h" />
+    <ClInclude Include="CuttingEdge.h" />
+    <ClInclude Include="RemoveLineFixWord.h" />
+    <ClInclude Include="RotateImage.h" />
+    <ClInclude Include="Threshold.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

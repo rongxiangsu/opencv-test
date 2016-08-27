@@ -18,5 +18,43 @@
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Base.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ClipItem.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CuttingEdge.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RemoveLineFixWord.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RotateImage.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Threshold.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Base.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ClipItem.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CuttingEdge.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RemoveLineFixWord.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RotateImage.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Threshold.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
