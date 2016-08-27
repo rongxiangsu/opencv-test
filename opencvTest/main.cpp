@@ -30,6 +30,7 @@ int main(int argc, char* argv[])
 	CRemoveLineFixWord remFix_img(thre_img.getOutFileName());
 	remFix_img.removeLineAndFixWord(offset);
 
+
 	getRuntime(start_time);
 	//cv::waitKey(0);
 	getchar();
